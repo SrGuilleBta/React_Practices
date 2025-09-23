@@ -7,7 +7,7 @@ function Cuadro(props){
     <div className="contenedor-C">
       <img className="imagen-C"
       src={require(`../img/img-${props.imagen}.png`)}
-      alt="Foto de Agusta"/>
+      alt="Foto de Agusta" />
       <div className="contenedor-texto">
         <p className="nombre-personaje"><strong>{props.nombre}</strong></p>
         <p className="elemento-personaje">{props.elemento}</p>
