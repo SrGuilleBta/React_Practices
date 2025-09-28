@@ -12,3 +12,6 @@ A click counter created using the `useState` hook.
 A calculator created using:
 - `props.children` (to represent components with or without opening tags)  
 - `mathjs` library for math operations  
+
+### 🔹 Activity 4  
+A simple to-do list application to practice task management with React.  
